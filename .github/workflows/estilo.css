@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 3;
+    font-family: 'Roboto Slab';
+    width: auto;
+    
+}
+.cabecalho {
+    width: 800px;
+    height: 230px;
+    background: gray;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+align-items: center;
+}
+.objetivo {
+    width: 800px;
+    height:auto;
+    background: rgb(203, 203, 248);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+align-items: center;
+    
+}
+.formacao {
+    width: 800px;
+    height:360px;
+    background: rgb(154, 154, 160);
+    display: auto;
+    align-content: flex-end;
+    justify-content: center;
+}
+.recente {
+    width: 800px;
+    height:auto;
+    background: rgb(203, 203, 248);
+    display: auto;
+    align-content: flex-end;
+    list-style: disc;
+    justify-content: center;
+   
+}
